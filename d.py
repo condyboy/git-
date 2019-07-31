@@ -5,6 +5,7 @@ from requests.exceptions import RequestException
 import os
 from hashlib import md5
 
+#获取系统当前路径
 path=os.getcwd()
 
 
