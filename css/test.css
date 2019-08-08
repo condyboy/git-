@@ -36,6 +36,7 @@
 }
 .bottom{
     height: 250px;
+    padding-top: 50px;
     background-color: rgb(202, 207, 214);
     margin: 0 auto;
     clear: both;
@@ -134,4 +135,16 @@ a:hover{
 .header ul li{
     float: left;
     padding: 5px;
+}
+
+.bottom .bottom_content{
+    width: 1000px;
+    height: 150px;
+    margin: 0 auto;
+}
+.bottom ul{
+    float: left;
+}
+ .bottom ul li{
+    padding: 8px 30px;
 }
